@@ -18,6 +18,6 @@
   "homepage": "https://github.com/cristiand391/shelljs-find-windows-bug#readme",
   "description": "",
   "dependencies": {
-    "shelljs": "^0.10.0"
+    "shelljs": "0.8.5"
   }
 }
