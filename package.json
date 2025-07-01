@@ -1,0 +1,23 @@
+{
+  "name": "shelljs-find-windows-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristiand391/shelljs-find-windows-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristiand391/shelljs-find-windows-bug/issues"
+  },
+  "homepage": "https://github.com/cristiand391/shelljs-find-windows-bug#readme",
+  "description": "",
+  "dependencies": {
+    "shelljs": "^0.10.0"
+  }
+}
