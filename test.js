@@ -7,6 +7,6 @@ const expectedDirs = [
     `${process.cwd()}/project\n`,
     `${process.cwd()}/project/source\n`,
     `${process.cwd()}/project/source/index.js\n`,
-]
+].map(dir => dir.replace(/\\/g, '/'));
 
 assert.equal(dirsFound, expectedDirs.join(""))
